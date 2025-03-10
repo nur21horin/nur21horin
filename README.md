@@ -4,7 +4,8 @@ Passionate coder with a cosmic ambition! 🚀 My dream? To be a Data Scientist a
 
 ## 💻 Tech Stacks
 
-- **Languages:** Python, R ,c ,c++
+- **Languages:** Python, R ,JAVA,JavaScript ,c ,c++
+- **Develoment** HTML, CSS,React,NextJS
 - **Data Science:** Pandas, NumPy, SciPy, Scikit-learn
 - **Machine Learning:** TensorFlow, PyTorch
 - **Visualization:** Matplotlib, Seaborn, Plotly
