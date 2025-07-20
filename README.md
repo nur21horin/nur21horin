@@ -25,9 +25,9 @@ Passionate coder with a cosmic ambition! 🚀 My dream? To be a Data Scientist a
 
 ## 🌐 Connect with Me
 
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 🌐 [Portfolio](https://nur21horin.github.io/Portfolio/)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 📷 [Instagram](https://instagram.com/yourhandle)
-- 📧 Email: your.email@example.com
+- 📧 Email: nurm98371@gmail.com
 
 Let's code our way to the stars! 🌟✨
