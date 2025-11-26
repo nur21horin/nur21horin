@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/your-banner.jpg)
+![Banner](https://veoawjzrbfkslvkg.public.blob.vercel-storage.com/Nur%20Mohammod.png)
 
 # 👨‍💻 Nur Mohammod
 **Frontend / Web Developer | MERN Stack Enthusiast**  
