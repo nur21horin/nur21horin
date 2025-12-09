@@ -3,6 +3,9 @@
 # 💫 About Me:
 🔭 I’m currently working on PlateShare<br><br>🌱 I’m currently learning Next Js<br><br>👨‍💻 All of my projects are available at https://nurmohammodportfolio.netlify.app/<br><br>💬 Ask me about react ,tailwindCSS<br><br>📫 How to reach me nurm98371@gmail.com
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nur21horin&label=Profile%20views&color=0e75b6&style=flat" alt="nur21horin" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nur21horin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohammod9410/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nur-mohammodd/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/nur_mohamm12159) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurm98371@gmail.com) 
@@ -28,30 +31,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nur21horin&label=Visitors&color=blue&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nur21horin&theme=flat&no-frame=true&margin-w=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur21horin&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur21horin&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur21horin&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nur21horin&title=Repo%20Views" />
-</p>
-
-
 
