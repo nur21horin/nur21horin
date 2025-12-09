@@ -26,5 +26,32 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nur21horin&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- All of my projects are available at [https://nurmohammodportfolio.netlify.app/](https://nurmohammodportfolio.netlify.app/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nur21horin&label=Visitors&color=blue&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nur21horin&theme=flat&no-frame=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nur21horin&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur21horin&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur21horin&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nur21horin&title=Repo%20Views" />
+</p>
+
+
+
