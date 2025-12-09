@@ -32,3 +32,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nur21horin/nur21horin/output/snake.svg?palette=rainbow" alt="Rainbow Snake Animation" />
+</p>
+
