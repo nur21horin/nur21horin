@@ -7,9 +7,11 @@
 
 <p align="center">
   <a href="https://wakatime.com/@8d83a8c1-4f21-428d-8f2a-a437b9453d0f">
-    <img src="https://wakatime.com/badge/user/24cf1509-dfd7-4d4f-a090-e73a282d3353.svg" alt="Wakatime Time" />
+    <img src="https://wakatime.com/badge/user/8d83a8c1-4f21-428d-8f2a-a437b9453d0f.svg" alt="Wakatime Time" />
   </a>
 </p>
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on PlateShare<br><br>🌱 I’m currently learning Next Js<br><br>👨‍💻 All of my projects are available at https://nurmohammodportfolio.netlify.app/<br><br>💬 Ask me about react ,tailwindCSS<br><br>📫 How to reach me nurm98371@gmail.com
