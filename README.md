@@ -52,7 +52,7 @@
     <!-- Codeforces -->
     <td align="center">
       <h3>🌌 Codeforces</h3>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AagdumBaagdum" alt="Codeforces Stats"/>
+     <img src="https://codeforces-readme-stats.vercel.app/api?username=AagdumBaagdum&theme=dark" />
     </td>
   </tr>
 
@@ -60,7 +60,7 @@
     <!-- CodeChef -->
     <td align="center">
       <h3>🍽️ CodeChef</h3>
-      <img src="https://codechef-readme-stats.vercel.app/api?username=nurm98371&theme=dark" alt="CodeChef Stats"/>
+     <img src="https://codechef-readme-stats.vercel.app/api?username=nurm98371" />
     </td>
 
     <!-- Beecrowd -->
