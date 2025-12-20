@@ -1,11 +1,6 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nur+Mohammod..;Full+Stack+Web+Developer+Student+Problem Solver;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
-
-
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nur+Mohammod..;Full+Stack+Web+Developer+Student+Problem+Solver;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true" />
+</p>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nur+Mohammod..;Student+Full Stack Developer+Problem Solver;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"> ![Banner](https://veoawjzrbfkslvkg.public.blob.vercel-storage.com/Nur%20Mohammod.png)</a></p> -->
