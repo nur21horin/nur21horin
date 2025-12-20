@@ -49,11 +49,6 @@
       <img src="https://leetcode.card.workers.dev/nur1089?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
     </td>
 
-    <!-- Codeforces -->
-    <td align="center">
-      <h3>🌌 Codeforces</h3>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AagdumBaagdum&theme=dark" alt="Codeforces Stats">
-    </td>
   </tr>
 
 
