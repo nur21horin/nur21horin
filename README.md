@@ -16,10 +16,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+a+Software+Engineering+Student..;Daffodil+International+University&center=true" />
 </p>
 
-# 💫 About Me:
-🎓 I'm studying Software Engineering (SWE).<br>
-🔭 I’m currently working on learning DSA<br><br>
-I’m exploring  Next Js<br><br>👨‍💻 All of my projects are available at https://nurmohammodportfolio.netlify.app/<br><br>💬 Ask me about react ,tailwindCSS<br><br>📫 How to reach me nurm98371@gmail.com
+# 💫 About Me
+
+🎓 **Studying:** Software Engineering (SWE)  
+🔭 **Currently Learning:** Data Structures & Algorithms (DSA)  
+🌱 **Exploring:** Next.js  
+
+👨‍💻 **Projects:** [View My Portfolio](https://nurmohammodportfolio.netlify.app/)  
+💬 **Ask me about:** React, TailwindCSS  
+📫 **Contact Me:** nurm98371@gmail.com
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nur21horin&label=Profile%20views&color=0e75b6&style=flat" alt="nur21horin" />
