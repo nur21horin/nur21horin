@@ -52,7 +52,7 @@
     <!-- Codeforces -->
     <td align="center">
       <h3>🌌 Codeforces</h3>
-     <img src="https://codeforces-readme-stats.vercel.app/api?username=AagdumBaagdum&theme=dark" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AagdumBaagdum&theme=dark" alt="Codeforces Stats">
     </td>
   </tr>
 
