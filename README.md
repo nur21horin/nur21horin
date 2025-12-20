@@ -41,6 +41,38 @@
 [![](https://visitcount.itsvg.in/api?id=nur21horin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<table>
+  <tr>
+    <!-- LeetCode -->
+    <td align="center">
+      <h3>🌠 LeetCode</h3>
+      <img src="https://leetcode.card.workers.dev/nur1089?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
+    </td>
+
+    <!-- Codeforces -->
+    <td align="center">
+      <h3>🌌 Codeforces</h3>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AagdumBaagdum" alt="Codeforces Stats"/>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- CodeChef -->
+    <td align="center">
+      <h3>🍽️ CodeChef</h3>
+      <img src="https://codechef-readme-stats.vercel.app/api?username=nurm98371&theme=dark" alt="CodeChef Stats"/>
+    </td>
+
+    <!-- Beecrowd -->
+    <td align="center">
+      <h3>🐝 Beecrowd</h3>
+      <img src="https://beecrowd-readme-stats.vercel.app/api?username=nurm98371&theme=dark" alt="Beecrowd Stats"/>
+    </td>
+  </tr>
+</table>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
