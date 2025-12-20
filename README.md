@@ -56,19 +56,7 @@
     </td>
   </tr>
 
-  <tr>
-    <!-- CodeChef -->
-    <td align="center">
-      <h3>🍽️ CodeChef</h3>
-     <img src="https://codechef-readme-stats.vercel.app/api?username=nurm98371" />
-    </td>
 
-    <!-- Beecrowd -->
-    <td align="center">
-      <h3>🐝 Beecrowd</h3>
-      <img src="https://beecrowd-readme-stats.vercel.app/api?username=nurm98371&theme=dark" alt="Beecrowd Stats"/>
-    </td>
-  </tr>
 </table>
 
 
