@@ -5,9 +5,9 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nur+Mohammod..;Student+Full Stack Developer+Problem Solver;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"> ![Banner](https://veoawjzrbfkslvkg.public.blob.vercel-storage.com/Nur%20Mohammod.png)</a></p> -->
 
-  <p align="center">
+<p align="center">
   <a href="https://wakatime.com/@8d83a8c1-4f21-428d-8f2a-a437b9453d0f">
-    <img src="https://wakatime.com/badge/user/8d83a8c1-4f21-428d-8f2a-a437b9453d0f.svg" alt="Wakatime Time" />
+    <img src="https://wakatime.com/badge/user/24cf1509-dfd7-4d4f-a090-e73a282d3353.svg" alt="Wakatime Time" />
   </a>
 </p>
 
