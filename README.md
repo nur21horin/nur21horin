@@ -17,7 +17,9 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on PlateShare<br><br>🌱 I’m currently learning Next Js<br><br>👨‍💻 All of my projects are available at https://nurmohammodportfolio.netlify.app/<br><br>💬 Ask me about react ,tailwindCSS<br><br>📫 How to reach me nurm98371@gmail.com
+🎓 I'm studying Software Engineering (SWE).<br>
+🔭 I’m currently working on learning DSA<br><br>
+I’m exploring  Next Js<br><br>👨‍💻 All of my projects are available at https://nurmohammodportfolio.netlify.app/<br><br>💬 Ask me about react ,tailwindCSS<br><br>📫 How to reach me nurm98371@gmail.com
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nur21horin&label=Profile%20views&color=0e75b6&style=flat" alt="nur21horin" />
