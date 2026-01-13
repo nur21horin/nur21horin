@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://wakatime.com/@8d83a8c1-4f21-428d-8f2a-a437b9453d0f">
-   <img src="https://wakatime.com/badge/user/8d83a8c1-4f21-428d-8f2a-a437b9453d0f.svg?style=flat&v=2" />
-
+    <img src="https://wakatime.com/badge/user/8d83a8c1-4f21-428d-8f2a-a437b9453d0f.svg?style=flat&cache=false" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+a+Software+Engineering+Student..;Daffodil+International+University&center=true" />
