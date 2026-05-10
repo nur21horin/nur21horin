@@ -64,7 +64,10 @@
       <h3>🌠 LeetCode</h3>
       <img src="https://leetcode.card.workers.dev/nur1089?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
     </td>
-
   </tr>
 </table>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nur21horin/nur21horin/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nur21horin/nur21horin/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nur21horin/nur21horin/output/pacman-contribution-graph.svg">
+</picture>
 
