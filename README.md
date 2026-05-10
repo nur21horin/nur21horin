@@ -178,7 +178,89 @@ Supports posts, interactions, and community-driven learning.
 📂 Frontend: https://github.com/nur21horin/codeShare  
 📂 Backend: https://github.com/nur21horin/codeshareBackend
 
+---
+## 🏆 Competitive Programming Profiles
+A collection of my coding practice and problem-solving profiles.
+### 🔹 🧠 LeetCode  
+👉 [nur1089](https://leetcode.com/u/nur1089/)
+### 🔹 ⚡ Codeforces  
+👉 [nurmohammod](https://codeforces.com/profile/nurmohammod)  
+👉 [AagdumBaagdum](https://codeforces.com/profile/AagdumBaagdum)
+### 🔹 🍳 CodeChef  
+👉 [nurm98371](https://www.codechef.com/users/nurm98371)
+### 🔹 📘 GeeksforGeeks  
+👉 [nur21hi1zw](https://auth.geeksforgeeks.org/user/nur21hi1zw/profile)
+💡 I actively practice DSA and competitive programming to improve problem-solving skills and algorithmic thinking.
+## 🏆 Competitive Programming Profiles
 
+---
+
+<table>
+  <tr>
+    <!-- LeetCode -->
+    <td align="center">
+      <h3>🌠 LeetCode</h3>
+      <img src="https://leetcode.card.workers.dev/nur1089?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
+      <br>
+      <a href="https://leetcode.com/u/nur1089/">🔗 Profile</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <!-- Codeforces Main -->
+    <td align="center">
+      <h3>⚡ Codeforces</h3>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nurmohammod&theme=github_dark" />
+      <br>
+      <a href="https://codeforces.com/profile/nurmohammod">🔗 Profile</a>
+    </td>
+</tr>
+    
+</table>
+  
+<table>
+  <tr>
+    <!-- Codeforces Alt -->
+    <td align="center">
+      <h3>🔥 Codeforces Alt</h3>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AagdumBaagdum&theme=github_dark" />
+      <br>
+      <a href="https://codeforces.com/profile/AagdumBaagdum">🔗 Profile</a>
+    </td>
+    </tr>
+  
+</table>
+
+---
+
+<table>
+  <tr>
+    <!-- CodeChef -->
+    <td align="center">
+      <h3>🍳 CodeChef</h3>
+      <img src="https://codechef-readme-stats.vercel.app/api/card?username=nurm98371&theme=dark" />
+      <br>
+      <a href="https://www.codechef.com/users/nurm98371">🔗 Profile</a>
+    </td>
+    </tr>
+<tr>
+  </table>
+  <table>
+    <!-- GeeksforGeeks -->
+    <td align="center">
+      <h3>📘 GeeksforGeeks</h3>
+      <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nur21hi1zw" />
+      <br>
+      <a href="https://auth.geeksforgeeks.org/user/nur21hi1zw/profile">🔗 Profile</a>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🔗 Connect with Me
 
 <p align="center">
