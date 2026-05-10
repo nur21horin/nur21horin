@@ -71,3 +71,7 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nur21horin/nur21horin/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nur21horin/nur21horin/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nur21horin/nur21horin/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
