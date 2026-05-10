@@ -11,7 +11,13 @@
     <img src="https://wakatime.com/badge/user/8d83a8c1-4f21-428d-8f2a-a437b9453d0f.svg?style=flat&cache=false" />
   </a>
 </p> 
- [View My Portfolio](https://nurmohammodportfolio.netlify.app/)  
+
+<p align="center">
+  <a href="https://nurmohammodportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
@@ -81,12 +87,9 @@
 </p>
 
 <h3 align="center">Deployment</h3>
-
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />&nbsp;&nbsp;
-
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" />&nbsp;&nbsp;
-
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" />
 </p>
 
