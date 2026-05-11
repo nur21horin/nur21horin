@@ -145,6 +145,19 @@ Built using **React, Express.js, and MongoDB**, focusing on performance and clea
 🔗 **Live Demo:** [Visit Project](https://ieltsmaster9.netlify.app/)
 📂 **GitHub Repo:** [View Code](YOUR_GITHUB_REPO_LINK)
 
+## 🚀 Featured Project
+
+### 🔍 GitHub Profile Viewer + AI Assistant
+
+A full-stack developer tool combining GitHub profile search + AI chat assistant.
+⚡ Search GitHub users  
+📊 View repos & stats  
+🤖 AI assistant (Gemini)  
+💬 Streaming chat responses  
+🔗 Live Demo: https://github-user-profile-show.vercel.app/  
+**Tech Stack:**  
+Next.js • TypeScript • Tailwind CSS • GitHub API • Gemini API
+
 ## 🍣 Sakura Sushi Shop
 A modern, responsive sushi restaurant website showcasing menu items with a clean UI and smooth navigation experience.
 Built using **HTML, CSS, and JavaScript**.
