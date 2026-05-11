@@ -145,10 +145,7 @@ Built using **React, Express.js, and MongoDB**, focusing on performance and clea
 🔗 **Live Demo:** [Visit Project](https://ieltsmaster9.netlify.app/)
 📂 **GitHub Repo:** [View Code](YOUR_GITHUB_REPO_LINK)
 
-## 🚀 Featured Project
-
-### 🔍 GitHub Profile Viewer + AI Assistant
-
+## 🔍 GitHub Profile Viewer + AI Assistant
 A full-stack developer tool combining GitHub profile search + AI chat assistant.
 ⚡ Search GitHub users  
 📊 View repos & stats  
