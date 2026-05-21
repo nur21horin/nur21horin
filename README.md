@@ -107,6 +107,15 @@
 <br/>
 ## Projects
 
+## 🏥 Professor Dr. M. Amjad Hossain Website
+A modern, responsive healthcare website designed for Professor Dr. M. Amjad Hossain, showcasing medical services, patient care information, treatment specialties, and appointment booking with a professional and user-friendly experience.
+Built using Next.js, React, and Tailwind CSS.
+
+### 🛠️ Tech Stack
+`Next.js` `React.js` `Tailwind` `CSS` `JavaScript`
+
+🔗 **Live Demo:** [Visit Project](https://website-redesign-git-main-nur-mohammods-projects.vercel.app/)
+
 ## 🌟 PlateShare – Community Food Sharing
 
 A MERN-based community food-sharing platform where users can donate surplus food, request items, manage contributions, and help reduce food waste.
