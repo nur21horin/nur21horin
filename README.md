@@ -192,6 +192,29 @@ Supports posts, interactions, and community-driven learning.
 📂 Backend: https://github.com/nur21horin/codeshareBackend
 
 ---
+## Machine Learning Projects
+
+## 🎬 Movie Recommender System
+
+A **content-based Movie Recommender System** built with **Python, Scikit-learn, and Streamlit**. It recommends similar movies using **content similarity** and **cosine similarity**, helping users discover films they may enjoy.
+
+### 🚀 Live Demo
+🔗 https://lnkd.in/gFjBfNwy
+
+### 🛠️ Tech Stack
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Streamlit
+
+### ✨ Key Features
+- Content-based movie recommendations
+- Data preprocessing & feature engineering
+- Cosine similarity for recommendation
+- Interactive web interface with Streamlit
+
+---
+---
 ## 🏆 Competitive Programming Profiles
 A collection of my coding practice and problem-solving profiles.
 ### 🔹 🧠 LeetCode  
@@ -207,7 +230,6 @@ A collection of my coding practice and problem-solving profiles.
 ## 🏆 Competitive Programming Profiles
 
 ---
-
 <table>
   <tr>
     <!-- LeetCode -->
