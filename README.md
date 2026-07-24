@@ -199,7 +199,8 @@ Supports posts, interactions, and community-driven learning.
 A **content-based Movie Recommender System** built with **Python, Scikit-learn, and Streamlit**. It recommends similar movies using **content similarity** and **cosine similarity**, helping users discover films they may enjoy.
 
 ### 🚀 Live Demo
-🔗 https://lnkd.in/gFjBfNwy
+**Live Demo:** [Visit Project](https://movierecommendersystem-nur21horin.streamlit.app/)
+📂 **GitHub Repo:** [View Code](https://github.com/nur21horin/Movie_recommender_system)
 
 ### 🛠️ Tech Stack
 - Python
