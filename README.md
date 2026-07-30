@@ -103,11 +103,7 @@
   </a>
 </p>
 
-## 🔥 GitHub Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nur21horin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ![Top language](https://stats.pphat.top/languages?username=nur21horin)
 <br/>
