@@ -17,7 +17,13 @@
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nur21horin" alt="nur21horin" /></a> </p>
 
+- 👨‍💻 All of my projects are available at **[https://nurmohammodportfolio.netlify.app/](https://nurmohammodportfolio.netlify.app/)**
+
+- 📝 I regularly write articles on **[https://nurmohammodportfolio.netlify.app/](https://nurmohammodportfolio.netlify.app/)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1OlbylEVs4MZpnNlgJgugrTWBx6mgWdIa/view?usp=sharing](https://drive.google.com/file/d/1OlbylEVs4MZpnNlgJgugrTWBx6mgWdIa/view?usp=sharing)**
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
