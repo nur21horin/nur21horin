@@ -223,6 +223,29 @@ A **content-based Movie Recommender System** built with **Python, Scikit-learn, 
 - Interactive web interface with Streamlit
 
 ---
+
+## AI Project Showcase
+## 😂 𝗙𝘂𝗻𝗻𝘆𝗕𝗼𝘁 𝗔𝗜
+A fun conversational AI chatbot built to make conversations more engaging with a humorous personality. This project helped me explore **𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻**, **𝗠𝗶𝘀𝘁𝗿𝗮𝗹 𝗔𝗜**, conversational memory, prompt engineering, and deploying AI applications with **𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁**.
+
+### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+`Python` `LangChain` `Mistral AI` `Streamlit` `python-dotenv`
+
+🔗 **𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼:** [Visit Project](https://funnybot-ai.streamlit.app/)
+
+📂 **𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼:** [View Code](YOUR_FUNNYBOT_GITHUB_REPO_LINK)
+
+---
+
+## 🎭 𝗠𝗼𝗼𝗱-𝗕𝗮𝘀𝗲𝗱 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁
+An interactive AI chatbot that changes its personality based on the selected mood. Users can switch between **😊 Happy**, **😂 Funny**, **😢 Sad**, and **😠 Angry** to experience conversations that adapt to different emotions. This project demonstrates prompt engineering, conversational AI, and context-aware interactions using **𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻** and **𝗠𝗶𝘀𝘁𝗿𝗮𝗹 𝗔𝗜**.
+
+### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+`Python` `LangChain` `Mistral AI` `Streamlit` `Prompt Engineering`
+
+🔗 **𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼:** [Visit Project](https://multipleaiagentiaichatbot.streamlit.app/)
+
+📂 **𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼:** [View Code](https://github.com/nur21horin/Multiple_AI_Agentic_Ai)
 ---
 ## 🏆 Competitive Programming Profiles
 A collection of my coding practice and problem-solving profiles.
