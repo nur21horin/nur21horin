@@ -19,11 +19,6 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nur21horin" alt="nur21horin" /></a> </p>
 
-- 👨‍💻 All of my projects are available at **[https://nurmohammodportfolio.netlify.app/](https://nurmohammodportfolio.netlify.app/)**
-
-- 📝 I regularly write articles on **[https://nurmohammodportfolio.netlify.app/](https://nurmohammodportfolio.netlify.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1OlbylEVs4MZpnNlgJgugrTWBx6mgWdIa/view?usp=sharing](https://drive.google.com/file/d/1OlbylEVs4MZpnNlgJgugrTWBx6mgWdIa/view?usp=sharing)**
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
@@ -140,21 +135,6 @@ A modern online flower platform with authentication, product management, and car
 🔗 **Live Demo:** [Visit Project](https://greennestplantsproject.netlify.app/)
 📂 **GitHub Repo:** [View Code](YOUR_GITHUB_REPO_LINK)
 
-## 📱 Hero.IO App
-A modern web application for discovering, browsing, and managing top mobile and web apps.
-Built with **React + Vite**, styled with **TailwindCSS + DaisyUI**, and enhanced using **React Router + Toastify**.
-### 🛠️ Tech Stack
-`React` `Vite` `React Router` `TailwindCSS` `DaisyUI` `Toastify`
-🔗 **Live Demo:** [Visit Project](https://aloio.netlify.app/)
-📂 **GitHub Repo:** [View Code](https://github.com/nur21horin/B12-A08-Hero-Apps)
-
-## 🎯 IELTS Master Platform
-A comprehensive IELTS preparation platform designed to help users practice and improve their English skills effectively.
-Built using **React, Express.js, and MongoDB**, focusing on performance and clean UI.
-### 🛠️ Tech Stack
-`React` `Express.js` `MongoDB`
-🔗 **Live Demo:** [Visit Project](https://ieltsmaster9.netlify.app/)
-📂 **GitHub Repo:** [View Code](YOUR_GITHUB_REPO_LINK)
 
 ## 🔍 GitHub Profile Viewer + AI Assistant
 A full-stack developer tool combining GitHub profile search + AI chat assistant.
@@ -211,19 +191,9 @@ A **content-based Movie Recommender System** built with **Python, Scikit-learn, 
 📂 **GitHub Repo:** [View Code](https://github.com/nur21horin/Movie_recommender_system)
 
 ### 🛠️ Tech Stack
-- Python
-- Pandas & NumPy
-- Scikit-learn
-- Streamlit
-
-### ✨ Key Features
-- Content-based movie recommendations
-- Data preprocessing & feature engineering
-- Cosine similarity for recommendation
-- Interactive web interface with Streamlit
+`Python``Pandas``NumPy``Scikit-learn``Streamlit`
 
 ---
-
 ## AI Project Showcase
 ## 😂 𝗙𝘂𝗻𝗻𝘆𝗕𝗼𝘁 𝗔𝗜
 A fun conversational AI chatbot built to make conversations more engaging with a humorous personality. This project helped me explore **𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻**, **𝗠𝗶𝘀𝘁𝗿𝗮𝗹 𝗔𝗜**, conversational memory, prompt engineering, and deploying AI applications with **𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁**.
@@ -246,7 +216,15 @@ An interactive AI chatbot that changes its personality based on the selected moo
 🔗 **𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼:** [Visit Project](https://multipleaiagentiaichatbot.streamlit.app/)
 
 📂 **𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼:** [View Code](https://github.com/nur21horin/Multiple_AI_Agentic_Ai)
+
 ---
+# 🧠 ResqoraMind
+An AI-powered multi-agent research system that automates searching, reading, writing, and reviewing research content.
+### Tech Stack
+Python • Streamlit • LangChain • LangGraph • Mistral AI • Tavily
+🔗 **𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼:** [Visit Project](https://researchqoramind.streamlit.app/)
+📂 **𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼:** [View Code](https://github.com/nur21horin/multi_agent_research_system)
+
 ## 🏆 Competitive Programming Profiles
 A collection of my coding practice and problem-solving profiles.
 ### 🔹 🧠 LeetCode  
